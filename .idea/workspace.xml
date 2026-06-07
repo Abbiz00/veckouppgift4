@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad60cae-1548-4f2a-a0ac-b41c413e3016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_2_2_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_2_2a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_3_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_4_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_5_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_2_2a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_2_2b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_3_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_4_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_5_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_7_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_7_0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_albin_u4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mail_albin_u4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_6_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_6_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_6_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_6_0.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +49,8 @@
     "Python.main_3_0.executor": "Run",
     "Python.main_4_0.executor": "Run",
     "Python.main_5_0.executor": "Run",
+    "Python.main_6_0.executor": "Run",
+    "Python.main_7_0.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -86,7 +79,7 @@
       <recent name="C:\Users\alberg\PycharmProjects\Testautomatisering_Python\Veckouppgift_4\2_2a" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_5_0">
+  <component name="RunManager">
     <configuration name="main_2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Veckouppgift_4" />
       <option name="ENV_FILES" value="" />
@@ -183,8 +176,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_6_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Veckouppgift_4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_6_0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_6_0" />
         <item itemvalue="Python.main_5_0" />
         <item itemvalue="Python.main_4_0" />
         <item itemvalue="Python.main_3_0" />
@@ -207,7 +225,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780590610487</updated>
-      <workItem from="1780590611415" duration="37497000" />
+      <workItem from="1780590611415" duration="43657000" />
     </task>
     <servers />
   </component>
@@ -221,5 +239,7 @@
     <SUITE FILE_PATH="coverage/Veckouppgift_4$main_2_2a.coverage" NAME="main_2_2a Coverage Results" MODIFIED="1780829261693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Veckouppgift_4$main_4_0.coverage" NAME="main_4_0 Coverage Results" MODIFIED="1780837821194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Veckouppgift_4$main_5_0.coverage" NAME="main_5_0 Coverage Results" MODIFIED="1780838849999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_7_0.coverage" NAME="main_7_0 Coverage Results" MODIFIED="1780846607320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_6_0.coverage" NAME="main_6_0 Coverage Results" MODIFIED="1780846194567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
