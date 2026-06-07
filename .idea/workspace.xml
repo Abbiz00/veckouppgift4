@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad60cae-1548-4f2a-a0ac-b41c413e3016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data_7_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_7_0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_6_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_6_0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_6_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_6_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_8_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_8_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_8_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_8_0.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,7 @@
     "Python.main_5_0.executor": "Run",
     "Python.main_6_0.executor": "Run",
     "Python.main_7_0.executor": "Run",
+    "Python.main_8_0.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -225,7 +223,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780590610487</updated>
-      <workItem from="1780590611415" duration="43657000" />
+      <workItem from="1780590611415" duration="44153000" />
     </task>
     <servers />
   </component>
@@ -240,6 +238,7 @@
     <SUITE FILE_PATH="coverage/Veckouppgift_4$main_4_0.coverage" NAME="main_4_0 Coverage Results" MODIFIED="1780837821194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Veckouppgift_4$main_5_0.coverage" NAME="main_5_0 Coverage Results" MODIFIED="1780838849999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Veckouppgift_4$main_7_0.coverage" NAME="main_7_0 Coverage Results" MODIFIED="1780846607320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_8_0.coverage" NAME="main_8_0 Coverage Results" MODIFIED="1780847274352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Veckouppgift_4$main_6_0.coverage" NAME="main_6_0 Coverage Results" MODIFIED="1780846194567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
