@@ -13,3 +13,4 @@ def dela_hand(antal):
     if antal > len(kortlek):
         return None
     return random.sample(kortlek, antal)
+
