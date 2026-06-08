@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad60cae-1548-4f2a-a0ac-b41c413e3016" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/data_8_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_8_0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_8_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_8_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_3_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_4_par_card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_4_random_card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_3_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_4_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_4_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,46 +34,55 @@
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3EgC1LliQpJa9ZWucfDsE9kqRYa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "Python.main_2_1.executor": "Run",
-    "Python.main_2_2a.executor": "Run",
-    "Python.main_2_2b.executor": "Run",
-    "Python.main_3_0.executor": "Run",
-    "Python.main_4_0.executor": "Run",
-    "Python.main_5_0.executor": "Run",
-    "Python.main_6_0.executor": "Run",
-    "Python.main_7_0.executor": "Run",
-    "Python.main_8_0.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/alberg/PycharmProjects/Testautomatisering_Python/Veckouppgift_4/2_1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.data_3_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_4_random_card.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_2_2a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_2_2b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_2_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_2_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_2_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_3_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_4_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_4_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_5_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_6_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_7_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_8_0.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alberg/PycharmProjects/Testautomatisering_Python/Veckouppgift_4/2_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alberg\PycharmProjects\Testautomatisering_Python\Veckouppgift_4\2_1" />
@@ -77,7 +93,7 @@
       <recent name="C:\Users\alberg\PycharmProjects\Testautomatisering_Python\Veckouppgift_4\2_2a" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main_2_1">
     <configuration name="main_2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Veckouppgift_4" />
       <option name="ENV_FILES" value="" />
@@ -102,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_3_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_2_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Veckouppgift_4" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +133,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_3_0.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alberg\PycharmProjects\Testautomatisering_Python\Veckouppgift_4\main_2_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_4_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_2_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Veckouppgift_4" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +157,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_4_0.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alberg\PycharmProjects\Testautomatisering_Python\Veckouppgift_4\main_2_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_5_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_2_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Veckouppgift_4" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,7 +181,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_5_0.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alberg\PycharmProjects\Testautomatisering_Python\Veckouppgift_4\main_2_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_6_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_2_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Veckouppgift_4" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +205,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_6_0.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alberg\PycharmProjects\Testautomatisering_Python\Veckouppgift_4\main_2_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main_6_0" />
-        <item itemvalue="Python.main_5_0" />
-        <item itemvalue="Python.main_4_0" />
-        <item itemvalue="Python.main_3_0" />
         <item itemvalue="Python.main_2_1" />
+        <item itemvalue="Python.main_2_6" />
+        <item itemvalue="Python.main_2_5" />
+        <item itemvalue="Python.main_2_4" />
+        <item itemvalue="Python.main_2_3" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +239,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780590610487</updated>
-      <workItem from="1780590611415" duration="44153000" />
+      <workItem from="1780590611415" duration="53860000" />
     </task>
     <servers />
   </component>
@@ -231,14 +247,24 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_2_2b.coverage" NAME="main_2_2b Coverage Results" MODIFIED="1780829706336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_3_0.coverage" NAME="main_3_0 Coverage Results" MODIFIED="1780836928038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Veckouppgift_4$main.coverage" NAME="main_2_1 Coverage Results" MODIFIED="1780829244052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_2_6.coverage" NAME="main_2_6 Coverage Results" MODIFIED="1780847849574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Veckouppgift_4$main_2_2a.coverage" NAME="main_2_2a Coverage Results" MODIFIED="1780829261693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_4_0.coverage" NAME="main_4_0 Coverage Results" MODIFIED="1780837821194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_5_0.coverage" NAME="main_5_0 Coverage Results" MODIFIED="1780838849999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_3_2.coverage" NAME="main_3_2 Coverage Results" MODIFIED="1780854873043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_4_0.coverage" NAME="main_4_0 Coverage Results" MODIFIED="1780855751572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Veckouppgift_4$main_7_0.coverage" NAME="main_7_0 Coverage Results" MODIFIED="1780846607320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_8_0.coverage" NAME="main_8_0 Coverage Results" MODIFIED="1780847274352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Veckouppgift_4$main_6_0.coverage" NAME="main_6_0 Coverage Results" MODIFIED="1780846194567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_2_4.coverage" NAME="main_2_4 Coverage Results" MODIFIED="1780847839763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_2_7.coverage" NAME="main_2_7 Coverage Results" MODIFIED="1780847855168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_4_3.coverage" NAME="main_4_3 Coverage Results" MODIFIED="1780854710231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_2_2b.coverage" NAME="main_2_2b Coverage Results" MODIFIED="1780829706336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_3_0.coverage" NAME="main_3_0 Coverage Results" MODIFIED="1780849678512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_2_5.coverage" NAME="main_2_5 Coverage Results" MODIFIED="1780847845230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$data_3_0.coverage" NAME="data_3_0 Coverage Results" MODIFIED="1780849408490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_5_0.coverage" NAME="main_5_0 Coverage Results" MODIFIED="1780838849999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_8_0.coverage" NAME="main_8_0 Coverage Results" MODIFIED="1780847498114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_2_8.coverage" NAME="main_2_8 Coverage Results" MODIFIED="1780847859533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$main_2_1.coverage" NAME="main_2_1 Coverage Results" MODIFIED="1780854860325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veckouppgift_4$data_4_random_card.coverage" NAME="data_4_random_card Coverage Results" MODIFIED="1780854571807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
