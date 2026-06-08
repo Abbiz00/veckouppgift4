@@ -1,7 +1,15 @@
 import random
 
-def rand_card():
+def bygg_kortlek():
     farger = ["ruter", "hjärter", "spader", "klöver"]
-    farg = random.choice(farger)
-    valor = random.randint(2, 14)
-    return [farg, valor]
+    kortlek = []
+    for farg in farger:
+        for valor in range(2, 15):
+            kortlek.append([farg, valor])
+    return kortlek
+
+def dela_hand(antal):
+    kortlek = bygg_kortlek()
+    if antal > len(kortlek):
+        return None
+    return random.sample(kortlek, antal)

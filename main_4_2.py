@@ -1,10 +1,7 @@
-from data_4_random_card import rand_card
+from data_4_random_card import bygg_kortlek, dela_hand
 from data_4_par_card import poker_hand
 
-#print(rand_card())
-#print(rand_card())
-
-hand1 = [rand_card() for _ in range(5)]
+hand1 = dela_hand(5)
 print(hand1)
 if poker_hand(hand1):
     print("Det finns ett par i handen")

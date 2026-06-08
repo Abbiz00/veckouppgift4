@@ -1,9 +1,8 @@
 def poker_hand(cards):
-    valorer = []
-    for card in cards:
-        valorer.append(card[1])
-
-    for valor in valorer:
-        if valorer.count(valor) >= 2:
-            return True
+    for i in range(len(cards)):
+        for j in range(i + 1, len(cards)):
+            samma_nummer = cards[i][1] == cards[j][1]
+            print(f"kortvalör {cards[i][1]} jämförs med kortvalör {cards[j][1]}")
+            if samma_nummer:
+                return True
     return False
